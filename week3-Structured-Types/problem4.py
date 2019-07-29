@@ -5,6 +5,7 @@
 # interactive game of Hangman between the user and the computer. Be sure you take advantage of the three helper functions,
 # isWordGuessed, getGuessedWord, and getAvailableLetters, that you've defined in the previous part.
 
+
 # Hints:
 # You should start by noticing where we're using the provided functions (at the top of ps3_hangman.py) to load the words and pick a
 # random one. Note that the functions loadWords and chooseWord should only be used on your local machine, not in the tutor. When
